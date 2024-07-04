@@ -3,6 +3,14 @@
 **.vcxproj
 **.vcxporj.filter
 
+x64/*
+x86/*
+.vs/*
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+hello_triangle/x64/*
+hello_opengl/x64/*
 
 
 
