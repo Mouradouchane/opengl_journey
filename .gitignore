@@ -12,5 +12,7 @@ x86/*
 hello_triangle/x64/*
 hello_opengl/x64/*
 
+bin/**
+obj/**
 
 
